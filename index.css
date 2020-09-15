@@ -53,6 +53,22 @@ h1{
     padding:5px;
 
   }
+  .henna p{
+      color: black;
+      font-weight: bolder;
+  }
+  .hido p{
+    color: black;
+    font-weight: bolder;
+}
+.ring p{
+    color: black;
+    font-weight: bolder;
+}
+.hair p{
+    color: black;
+    font-weight: bolder;
+}
   .text p{
       position:absolute;
       color: black;
@@ -102,10 +118,34 @@ h1{
     text-align: left;
     padding:5px;
   }
+  .perform p{
+      color: black;
+      font-weight: bolder;
+  }
+  .goud p{
+      color: black;
+      font-weight: bolder;
+ }
+ .milk p{
+    color: black;
+    font-weight: bolder;
+}
 
 .forth h3{
     text-transform: uppercase;
     font-weight: bolder;
     text-align: left;
     padding:5px;
+}
+.mat p{
+    color: black;
+    font-weight: bolder;
+}
+.graf p{
+    color: black;
+    font-weight: bolder;
+}
+.skully p{
+    color: black;
+    font-weight: bolder;
 }
