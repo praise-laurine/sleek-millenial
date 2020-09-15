@@ -3,3 +3,109 @@ header{
     width:1200px;
     background-color: #c4c4c4;
 }
+#nav{
+    margin-left: 10px;
+    padding-bottom: 20px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom
+}
+a:hover{
+    border-bottom: solid black 5px;
+}
+
+h1{
+    text-align: center;
+
+}
+.first h2{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .second h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+
+  }
+  .text p{
+      position:absolute;
+      color: black;
+      padding: 5px;
+      top: 350px;
+      font-weight: bolder;
+  }
+  .set p{
+    position:absolute;
+    color: black;
+    padding: 5px;
+    top: 700px;
+    font-weight: bolder;
+  }
+  .test p{
+    position:absolute;
+    color: black;
+    padding: 5px;
+    top: 900px;
+    font-weight: bolder;
+}
+.txt p{
+    position:absolute;
+    color: black;
+    padding: 5px;
+    top: 1080px;
+    font-weight: bolder;
+
+}
+
+  /* four image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .third h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+  }
+
+.forth h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+}
