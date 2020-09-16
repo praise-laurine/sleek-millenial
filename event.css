@@ -1,0 +1,243 @@
+header{
+    height:150px;
+    
+    background-color: #c4c4c4;
+}
+#nav{
+    margin-left: 10px;
+    padding-bottom: 20px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom:5px solid white;
+}
+a:hover{
+    border-bottom: solid black 5px;
+}
+
+h1{
+    text-align: center;
+
+}
+.first h2{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .second h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+
+  }
+  .henna p{
+      color: white;
+      font-weight: bolder;
+      background-color: black;
+      position: absolute;
+      top:800px;
+      font-weight: bolder;
+}
+  .hido p{
+    color:white;
+    font-weight: bolder;
+    background-color: black;
+    top:800px;
+    position: absolute;
+    
+}
+.ring p{
+    color: white;
+    font-weight: bolder;
+    background-color: black;
+    top:800px;
+    position: absolute;
+}
+.hair p{
+    color: white;
+    font-weight: bolder;
+    background-color: black;
+    top:800px;
+    position: absolute;
+}
+  .text p{
+      position:absolute;
+      color: white;
+      padding: 5px;
+      top: 350px;
+      font-weight: bolder;
+      background-color:black;
+
+  }
+  .set p{
+    position:absolute;
+    color:white;
+    padding: 5px;
+    top: 350px;
+    font-weight: bolder;
+    background-color: black;
+    padding:5px;
+  }
+  .test p{
+    position:absolute;
+    color: white;
+    padding: 5px;
+    top: 300px;
+    font-weight: bolder;
+    background-color: black;
+}
+.txt p{
+    position:absolute;
+    color: white;
+    padding: 5px;
+    top: 300px;
+    font-weight: bolder;
+    background-color: black;
+
+}
+
+  /* four image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .third h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+  }
+  .perform p{
+      color: white;
+      font-weight: bolder;
+      position:absolute;
+      padding: 5px;
+      top: 1230px;
+      font-weight: bolder;
+      background-color: black;
+  }
+  .goud p{
+    color: white;
+    font-weight: bolder;
+    position:absolute;
+    padding: 5px;
+    top: 1230px;
+    font-weight: bolder;
+    background-color: black;
+  }
+ .milk p{
+    color: white;
+    font-weight: bolder;
+    position:absolute;
+    padding: 5px;
+    top: 1230px;
+    font-weight: bolder;
+    background-color: black;
+}
+
+.forth h3{
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    padding:5px;
+}
+.mat p{
+    color: white;
+    font-weight: bolder;
+    position:absolute;
+    padding: 5px;
+    top: 1655px;
+    font-weight: bolder;
+    background-color: black;
+}
+.graf p{
+    color: white;
+    font-weight: bolder;
+    position:absolute;
+    padding: 5px;
+    top: 1655px;
+    font-weight: bolder;
+    background-color: black;
+    }
+.skully p{
+    color: white;
+    font-weight: bolder;
+    position:absolute;
+    padding: 5px;
+    top: 1655px;
+    font-weight: bolder;
+    background-color: black;
+}
+body{
+    background-color: blanchedalmond;
+    
+
+}
+
+ /* three image containers (use 25% for four, and 50% for two, etc) */
+ .column {
+    
+    
+    padding: 5px;
+    top: 100px;
+  }
+   .row{
+      display: flex;
+
+  }
+  #footer{
+    background-color: #c4c4c4;
+    width: auto;
+    height: 80px;
+    clear: both;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+
+}
+#footer>a{
+    padding-left: 20px;
+    border-bottom: none;
+
+}
+#footer>a:hover{
+    border-bottom: oldlace 5px solid;
+}
+
+i{
+    font-size: 20px;
+    padding: 20px;
+    /*float: left; */
+
+}
