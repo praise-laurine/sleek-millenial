@@ -1,6 +1,5 @@
 body{
-    background-image: url(./images/shuka.jpg);
-    color:white;
+   background-color: wheat;
     font-weight: bold;
 }
 header{
@@ -55,9 +54,13 @@ a:hover{
     border-bottom: black 5px solid;
 }
 p{
-    background-color: #c4c4c4;
+  
     text-align: center;
     
+}
+h1{
+    align-content: center;
+    text-align: center;
 }
 #footer{
     background-color: #c4c4c4;

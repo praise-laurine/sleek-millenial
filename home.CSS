@@ -70,6 +70,7 @@ a:hover{
     float: left;
     background-color: #c4c4c4;
     text-align: center;
+    padding: 20px;
 
 }
 #more>a{
@@ -174,12 +175,12 @@ a:hover{
     background-color: black;
 }
 #slogan{
-    float: left;
+    float: right;
     background-image: url(./images/art.jpg);
     background-size: cover;
     color: black;
-    box-shadow: white 5px 5px 5px 5px;
-    margin: 20px;
+    box-shadow:  0 5px 5px 5px;
+   
 
 }
 #pic1{
