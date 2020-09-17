@@ -1,0 +1,213 @@
+body{
+    background-color: wheat;
+}
+header{
+    background-color: #c4c4c4;
+    opacity: 1;
+    margin-bottom: 2px;
+
+
+}
+#nav{
+    margin-left: 10px;
+    padding-bottom: 20px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom: 5px white solid;
+}
+a:hover{
+    border-bottom: black 5px solid;
+}header{
+    background-color: #c4c4c4;
+    opacity: 1;
+    margin-bottom: 2px;
+
+
+}
+#nav{
+    margin-left: 10px;
+    padding-bottom: 20px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom: 5px white solid;
+}
+a:hover{
+    border-bottom: black 5px solid;
+}
+.text{
+    position: absolute;
+    background-color:black;
+    padding: 10px;
+    margin-left: 25%;
+    color: white;
+    font-weight: bold;
+}
+#images{
+    margin:0;
+}
+
+
+#more{
+    position: relative;
+    float: left;
+    background-color: #c4c4c4;
+    text-align: center;
+    padding: 20px;
+
+}
+#more>a{
+    background-image: url(./images/shuka.jpg);
+    color:white;
+    padding: 5px;
+}
+
+#more1{
+    position: relative;
+    background-color: #c4c4c4;
+    float: left;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.text2{
+    position: absolute;
+    float: none;
+    background-color:black;
+    padding: 10px;
+    text-align: center;
+    margin-left: 25%;
+    font-weight: bold;
+    color:white
+}
+#more1>a{
+    background-image: url(./images/shuka.jpg);
+    color:white;
+    padding: 5px;
+    
+}
+
+#more2{
+    position: relative;
+    background-color: #c4c4c4;
+    float: left;
+    padding: 20px;
+}
+#more2>a{
+    background-image: url(./images/shuka.jpg);
+    color:white;
+    padding: 5px;
+}
+.text3{
+    margin-left: 35%;
+    background-color:black;
+    position: absolute;
+    padding: 10px;
+    color: white;
+}
+#more3{
+    position: relative;
+    background-color: #c4c4c4;
+    float: left;
+    padding: 20px;
+}
+
+#more3>a{
+    background-image: url(./images/shuka.jpg);
+    color:white;
+    padding: 5px;
+}
+
+.text4{
+    margin-left: 25%;
+    background-color:black;
+    position: absolute;
+    padding: 20px;
+    color: white;
+}
+
+#about{
+    width: 600px;
+    height:600px;
+    background-image: url(./images/WhatsApp\ Image\ 2020-09-14\ at\ 4.58.19\ PM\ \(1\).jpeg);
+    block-size: 600px 600px;
+    background-repeat:repeat-x;
+    float: right;
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10%;
+
+}
+#txt>a{
+    background-image: url(./images/shuka.jpg);
+    color:white;
+    padding: 5px;
+
+}
+
+#txt{
+    background-color: black;
+    width: auto;
+    height: auto;
+    padding: 30px;
+}
+#main{
+    background-color: black;
+}
+#slogan{
+    float: right;
+    background-image: url(./images/art.jpg);
+    background-size: cover;
+    color: black;
+    box-shadow:  0 5px 5px 5px;
+   
+
+}
+#pic1{
+    float: right;
+}
+#footer{
+    background-color: #c4c4c4;
+    width: auto;
+    height: 80px;
+    clear: both;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+
+}
+#footer>a{
+    padding-left: 20px;
+    border-bottom: none;
+
+}
+#footer>a:hover{
+    border-bottom: oldlace 5px solid;
+}
+
+i{
+    font-size: 20px;
+    padding: 20px;
+    /*float: left; */
+
+}
