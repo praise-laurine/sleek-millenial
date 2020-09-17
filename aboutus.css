@@ -1,0 +1,96 @@
+#nav{
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom: 5px white solid;
+}
+
+header{
+    background-color: #c4c4c4;
+    opacity: 1;
+    margin-bottom: 2px;
+}
+a:hover{
+    border-bottom: black 5px solid;
+}
+
+#nav{
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-bottom: 5px white solid;
+}
+a:hover{
+    border-bottom: black 5px solid;
+}
+body{
+    background-image:url(./Images/amdone.jpeg);
+    color:whitesmoke;
+    margin:5px;
+    padding:15px;
+    height:200;
+    width:150;
+    }
+h1{
+    font-weight: bolder;
+    color:green;
+    background-color: black;
+}
+p{
+    font-weight: bolder;
+    font-size: 25px;
+    word-wrap: break-word;
+    text-align: justify;
+}
+h2{
+    font-weight: bolder;
+    color: green;
+    background-color: black;
+}
+h6{
+    color:black;
+}
+
+
+#footer{
+    background-color: #c4c4c4;
+    width: auto;
+    height: 80px;
+    clear: both;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+}
+.container{
+    justify-content: flex;
+    text-align: center;
+}
+#img1{
+    float:left;
+}
+#img2{
+    float:left;
+}
+#img3{
+    float:left;
+}
