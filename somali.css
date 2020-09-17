@@ -1,5 +1,7 @@
 body{
     background-image: url(./images/shuka.jpg);
+    color:white;
+    font-weight: bold;
 }
 header{
     background-color: #c4c4c4;

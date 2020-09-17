@@ -1,5 +1,6 @@
 body{
-    background-image: url(./images/shuka.jpg);
+    background-color: white;
+    font-weight: bold;
 }
 header{
     background-color: #c4c4c4;
@@ -33,6 +34,10 @@ a:hover{
 
 
 }
+h1{
+    text-align: center;
+    align-content: center;
+}
 #nav{
     margin-left: 10px;
     padding-bottom: 20px;
@@ -52,7 +57,7 @@ a{
 a:hover{
     border-bottom: black 5px solid;
 }
-p{
+p1{
     background-color: #c4c4c4;
     text-align: center;
     

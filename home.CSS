@@ -1,5 +1,5 @@
 body{
-    background-image: url(./images/shuka.jpg);
+    background-color: wheat;
 }
 header{
     background-color: #c4c4c4;
@@ -55,8 +55,8 @@ a:hover{
 .text{
     position: absolute;
     background-color:black;
-    padding: 20px;
-    margin-left: 80%;
+    padding: 10px;
+    margin-left: 25%;
     color: white;
     font-weight: bold;
 }
@@ -91,9 +91,9 @@ a:hover{
     position: absolute;
     float: none;
     background-color:black;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
-    margin-left: 50%;
+    margin-left: 25%;
     font-weight: bold;
     color:white
 }
@@ -116,10 +116,10 @@ a:hover{
     padding: 5px;
 }
 .text3{
-    margin-left: 55%;
+    margin-left: 35%;
     background-color:black;
     position: absolute;
-    padding: 20px;
+    padding: 10px;
     color: white;
 }
 #more3{
@@ -136,7 +136,7 @@ a:hover{
 }
 
 .text4{
-    margin-left: 75%;
+    margin-left: 25%;
     background-color:black;
     position: absolute;
     padding: 20px;
@@ -174,13 +174,16 @@ a:hover{
     background-color: black;
 }
 #slogan{
-    margin-top: 20%;
     float: left;
     background-image: url(./images/art.jpg);
     background-size: cover;
     color: black;
     box-shadow: white 5px 5px 5px 5px;
+    margin: 20px;
 
+}
+#pic1{
+    float: right;
 }
 #footer{
     background-color: #c4c4c4;
