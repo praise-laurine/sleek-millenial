@@ -65,7 +65,7 @@ h1{
     color:white;
     font-weight: bolder;
     background-color: black;
-    top:800px;
+    top: 800px;
     position: absolute;
     
 }
@@ -200,7 +200,7 @@ h1{
     background-color: black;
 }
 body{
-    background-color: blanchedalmond;
+    background-color:url(african.jpeg);
     
 
 }
@@ -240,4 +240,7 @@ i{
     padding: 20px;
     /*float: left; */
 
+}
+body{
+    background-color: blanchedalmond;
 }
